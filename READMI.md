@@ -1,7 +1,7 @@
 # Pertemuan 13 — Debugging dan Testing
 
-**Nama:** Firgi Erviansyah  
-**NIM:** 2225250170  
+**Nama:** muhamad nurul bayan  
+**NIM:** 2225250115  
 **Kelas:** 3B
 
 ## Kasus
